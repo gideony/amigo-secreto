@@ -1,0 +1,37 @@
+# Amigo Secreto
+
+Este projeto é uma aplicação para organizar e gerenciar um jogo de Amigo Secreto.
+
+## Funcionalidades
+
+- Cadastro de participantes
+- Sorteio de amigos secretos
+- Visualização dos resultados do sorteio
+
+## Tecnologias Utilizadas
+
+- Linguagem de Programação: [JavaScript]
+
+## Como Executar o Projeto
+
+1. Clone o repositório:
+    ```
+    git clone https://github.com/seu-usuario/amigo-secreto.git
+    ```
+
+2. Navegue até o diretório do projeto:
+    ```
+    cd amigo-secreto
+    ```
+
+## Contribuição
+
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/nome-da-feature`)
+3. Commit suas alterações (`git commit -m 'Adiciona nova feature'`)
+4. Faça um push para a branch (`git push origin feature/nome-da-feature`)
+5. Abra um Pull Request
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
